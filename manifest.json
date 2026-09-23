@@ -1,7 +1,7 @@
 {
   "id": "random-note-draw",
-  "name": "Random Note Draw",
-  "version": "2.0.0",
+  "name": "random-note-cat",
+  "version": "2.0.1",
   "minAppVersion": "1.4.0",
   "description": "随机抽卡：像素风抽卡弹窗，点击侧边栏骰子图标或执行命令，随机打开库中的一篇笔记；每次抽卡随机抽出一只像素小猫（20 只）；支持排除文件夹、只抽日记、避免连抽同一篇，抽到自动打卡记录。",
   "author": "jenny",
